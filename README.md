@@ -82,6 +82,4 @@ const dev = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerio-maximo-36313b23b/)
 
-<sub>Feito com ☕ e muito código.</sub>
-
 </div>
