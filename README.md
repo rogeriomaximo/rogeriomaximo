@@ -1,42 +1,101 @@
-<div align="center">Olá, eu sou o Rogério! 👋
-Desenvolvedor em formação | Full Stack
-Transformando conhecimento em código, ideias em projetos e desafios em aprendizado.
-<p>
-  <a href="https://github.com/senhordev01">
-    <img src="https://img.shields.io/badge/GitHub-senhordev01-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p></div>💻 Sobre mim
-Sou estudante de Engenharia de Software e estou construindo minha trajetória no desenvolvimento de software por meio de estudos e projetos práticos.
+<div align="center">
 
-Minha área de interesse é o desenvolvimento Full Stack: gosto de trabalhar tanto no front-end quanto no back-end, desenvolvendo as duas partes em conjunto. Utilizo o front-end para construir interfaces, testar funcionalidades e visualizar o comportamento da aplicação, enquanto aplico e aprofundo meus conhecimentos principalmente na lógica e na estrutura do back-end.
+# Olá, mundo! 👋
 
-Acredito que a melhor forma de aprender é desenvolver, testar, identificar problemas e melhorar continuamente.
-- 🎓 Estudante de Engenharia de Software.
-- 🧠 Aprendendo e praticando desenvolvimento front-end e back-end.
-- 🔧 Interesse em APIs, lógica de programação e bancos de dados.
-- 🚀 Sempre buscando transformar o que estudo em projetos reais.
-🧰 Tecnologias e ferramentas
-Estas são as tecnologias que utilizo nos meus estudos e projetos:
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,postgres,git,github" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Node.js, PostgreSQL, Git e GitHub"></div>Área	Tecnologias
-Front-end	HTML, CSS, JavaScript, TypeScript e React
-Back-end	Node.js e JavaScript/TypeScript
-Banco de dados	PostgreSQL
-Versionamento	Git e GitHub
+### Desenvolvedor Full Stack em construção constante
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front+para+testar.+Back+para+aprender.;Codando+back+e+front+ao+mesmo+tempo.;Transformando+conhecimento+em+c%C3%B3digo." alt="Typing SVG" />
 
-🌟 Projeto em destaque
-📚 Paginarium
-Aplicação de aluguel de livros desenvolvida como projeto acadêmico, com foco na criação de uma experiência para consultar livros e realizar aluguéis.
+</div>
 
-O projeto envolve o desenvolvimento de uma aplicação mobile e de uma API, permitindo praticar a integração entre interface, regras de negócio e persistência de dados.
+---
 
-Tecnologias utilizadas: React Native, TypeScript, Node.js, Express e PostgreSQL.
-<a href="https://github.com/senhordev01/PaginariumAPP">
-  <img src="https://img.shields.io/badge/Ver%20projeto-Paginarium-6C63FF?style=for-the-badge&logo=github" alt="Ver projeto Paginarium">
-</a>📈 GitHub em números
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=senhordev01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhordev01&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"></div><div align="center">🤝 Vamos construir algo?
-Obrigado por visitar meu perfil! Fique à vontade para conhecer meus repositórios e acompanhar minha evolução.
+## 🚀 Área de atuação
 
-Estudando, desenvolvendo e evoluindo um commit de cada vez. 💜
+Desenvolvo **back-end e front-end ao mesmo tempo**, com uma abordagem própria:
+
+- 🧪 **Front-end** → serve como campo de testes, onde valido ideias e vejo o resultado na prática
+- ⚙️ **Back-end** → é onde aplico e consolido o conhecimento adquirido, com regras de negócio, banco de dados e APIs
+
+Assim, cada projeto me ensina o ciclo completo: da interface ao banco de dados.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+| Camada | Stack |
+| :-- | :-- |
+| 🎨 **Front-end** | HTML, CSS, JavaScript, TypeScript, React |
+| ⚙️ **Back-end** | Node.js, TypeScript |
+| 🗄️ **Banco de dados** | PostgreSQL |
+| 🔧 **Ferramentas** | Git, GitHub |
+
+---
+
+## ⭐ Projeto em destaque
+
+<div align="center">
+
+### 📚 Paginarium
+
+*Meu projeto principal, onde reúno tudo o que aprendo no front e no back.*
+
+[![Ver repositório](https://img.shields.io/badge/Ver_o_projeto-Paginarium-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO/paginarium)
+
+</div>
+
+> 💡 Troque `SEU-USUARIO` pelo seu usuário do GitHub no link acima.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Em resumo
+
+```ts
+const dev = {
+  foco: ["Front-end", "Back-end"],
+  filosofia: "Testar no front, aplicar no back",
+  stack: ["HTML", "CSS", "JS", "TS", "React", "Node.js", "PostgreSQL"],
+  projetoEmDestaque: "Paginarium",
+  aprendendo: "Todos os dias 🚀",
+};
+```
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+
+<sub>Feito com ☕ e muito código.</sub>
+
 </div>
