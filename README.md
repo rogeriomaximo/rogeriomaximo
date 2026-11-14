@@ -54,7 +54,7 @@ Assim, cada projeto me ensina o ciclo completo: da interface ao banco de dados.
 
 *Meu projeto principal, onde reúno tudo o que aprendo no front e no back.*
 
-[![Ver repositório](https://img.shields.io/badge/Ver_o_projeto-Paginarium-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriomaximo/paginarium)
+[![Ver repositório](https://img.shields.io/badge/Ver_o_projeto-Paginarium-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriomaximo/PaginariumAPP.git)
 
 </div>
 
