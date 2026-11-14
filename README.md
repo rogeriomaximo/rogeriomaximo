@@ -54,7 +54,7 @@ Assim, cada projeto me ensina o ciclo completo: da interface ao banco de dados.
 
 *Meu projeto principal, onde reúno tudo o que aprendo no front e no back.*
 
-[![Ver repositório](https://img.shields.io/badge/Ver_o_projeto-Paginarium-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO/paginarium)
+[![Ver repositório](https://img.shields.io/badge/Ver_o_projeto-Paginarium-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogeriomaximo/paginarium)
 
 </div>
 
@@ -62,18 +62,6 @@ Assim, cada projeto me ensina o ciclo completo: da interface ao banco de dados.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🧠 Em resumo
 
