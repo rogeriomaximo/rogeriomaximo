@@ -58,7 +58,6 @@ Assim, cada projeto me ensina o ciclo completo: da interface ao banco de dados.
 
 </div>
 
-> 💡 Troque `SEU-USUARIO` pelo seu usuário do GitHub no link acima.
 
 ---
 
